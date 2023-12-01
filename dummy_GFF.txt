@@ -1,0 +1,38 @@
+##gff-version 3
+#!genome-version DUMMY
+CHR1	DUMMY	CHR1	1	500	.	.	.	ID=CHR:1
+###
+CHR1	bec49	gene	8	64	.	+	0	ID=gene:dummy_aaa;biotype=protein_coding;etc;etc;etc
+CHR1	bec49	mRNA	8	64	.	+	0	ID=etc;etc;etc;etc
+CHR1	bec49	exon	8	64	.	+	0	ID=etc;etc;etc;etc
+CHR1	bec49	CDS	8	64	.	+	0	ID=etc;etc;etc;etc
+###
+CHR1	bec49	gene	145	280	.	+	0	ID=gene:dummy_aab;biotype=protein_coding;etc;etc;etc
+CHR1	bec49	mRNA	145	280	.	+	0	ID=etc;etc;etc;etc
+CHR1	bec49	exon	145	195	.	+	0	ID=etc;etc;etc;etc
+CHR1	bec49	CDS	145	195	.	+	0	ID=etc;etc;etc;etc
+CHR1	bec49	exon	211	280	.	+	0	ID=etc;etc;etc;etc
+CHR1	bec49	CDS	211	280	.	+	0	ID=etc;etc;etc;etc
+###
+CHR2	DUMMY	CHR2	1	400	.	.	.	ID=CHR:2
+###
+CHR2	bec49	gene	145	320	.	+	0	ID=gene:dummy_cce;biotype=protein_coding;etc;etc;etc
+CHR2	bec49	mRNA	145	320	.	+	0	ID=etc;etc;etc;etc
+CHR2	bec49	exon	145	195	.	+	0	ID=etc;etc;etc;etc
+CHR2	bec49	CDS	145	195	.	+	0	ID=etc;etc;etc;etc
+CHR2	bec49	exon	211	320	.	+	0	ID=etc;etc;etc;etc
+CHR2	bec49	CDS	211	320	.	+	0	ID=etc;etc;etc;etc
+###
+CHR3	DUMMY	CHR3	1	800	.	.	.	ID=CHR:3
+###
+CHR3	bec49	gene	16	752	.	+	0	ID=gene:dummy_fao;biotype=protein_coding;etc;etc;etc
+CHR3	bec49	mRNA	16	752	.	+	0	ID=etc;etc;etc;etc
+CHR3	bec49	exon	16	109	.	+	0	ID=etc;etc;etc;etc
+CHR3	bec49	CDS	16	109	.	+	0	ID=etc;etc;etc;etc
+CHR3	bec49	exon	344	390	.	+	0	ID=etc;etc;etc;etc
+CHR3	bec49	CDS	344	390	.	+	0	ID=etc;etc;etc;etc
+CHR3	bec49	exon	506	752	.	+	0	ID=etc;etc;etc;etc
+CHR3	bec49	CDS	506	752	.	+	0	ID=etc;etc;etc;etc
+###
+
+
